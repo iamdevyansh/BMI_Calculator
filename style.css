@@ -34,7 +34,7 @@ body {
 	-webkit-box-shadow: 25px 28px 47px 2px rgba(0, 0, 0, 0.48);
 	-moz-box-shadow: 25px 28px 47px 2px rgba(0, 0, 0, 0.48);
 	box-shadow: 25px 28px 47px 2px rgba(7, 0, 0, 0.48);
-	background-image: linear-gradient(to right, #03cf2f, #58da3a, #81e448, #a3ef57, #c1f967);
+	background-image: linear-gradient(to right, #18b3ce, #3aadda, #48c7e4, #57b0ef, #6ec2e9);
   }
   
   /* Result styles */
@@ -51,10 +51,10 @@ body {
 	padding: 2% 0;
 	text-align: center;
 	margin-top: 2%;
-	color: rgb(250, 165, 54);
+	color: rgb(255, 255, 255);
 	background:
-	  radial-gradient(black 15%, transparent 16%) 0 0,
-	  radial-gradient(black 15%, transparent 16%) 8px 8px,
+	  radial-gradient(rgb(184, 23, 23) 15%, transparent 16%) 0 0,
+	  radial-gradient(rgb(15, 135, 199) 15%, transparent 16%) 8px 8px,
 	  radial-gradient(rgba(255, 255, 255, .1) 15%, transparent 20%) 0 1px,
 	  radial-gradient(rgba(255, 255, 255, .1) 15%, transparent 20%) 8px 9px;
 	background-color: #282828;
